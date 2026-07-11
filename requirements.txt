@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+lightgbm
+catboost
+umap-learn
+jupyter
+notebook
