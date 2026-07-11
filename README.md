@@ -134,7 +134,7 @@ Highlights:
 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/rishu023/Flue_gas_emission_prediction
 ```
 
 Install dependencies
